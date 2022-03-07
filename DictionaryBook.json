@@ -26,13 +26,13 @@
     "booksDetails": [
       {
         "id": "1",
-        "bookUrl": "https://github.com/gdafzalkhan99/files/raw/main/English%20Tenses%20(by%20Dictionary).pdf",
-        "totalSlides": "10"
+        "bookUrl": "https://nppharma.files.wordpress.com/2015/02/lippincotts-illustrated-review-pharamacology4th-edition.pdf",
+        "totalSlides": "878"
       },
       {
         "id": "2",
-        "bookUrl": "https://github.com/gdafzalkhan99/files/raw/main/English%20to%20Urdu%20Sentences%20Spoken%20English%2029.pdf",
-        "totalSlides": "19"
+        "bookUrl": "https://ia902809.us.archive.org/19/items/BDChaurasiasHumanAnatomyVolume1MedicosTimes/BD_Chaurasia%E2%80%99s_Human_Anatomy%2C%20Volume%201%20-%20Upper%20Limb%20Thorax%2C%206th%20Edition.pdf",
+        "totalSlides": "312"
       },
       {
         "id": "3",
@@ -54,8 +54,7 @@
         "id": "2",
         "bookUrl": "https://github.com/gdafzalkhan99/files/raw/main/English%20to%20Urdu%20Sentences%20Spoken%20English%2029.pdf",
         "totalSlides": "27"
-      },
-      
+      }
     ]
   },
   {
@@ -71,7 +70,7 @@
         "id": "3",
         "bookUrl": "https://github.com/gdafzalkhan99/files/raw/main/English%20to%20Urdu%20Sentences%20Spoken%20English%2029.pdf",
         "totalSlides": "36"
-      },
+      }
     ]
   },
   {
