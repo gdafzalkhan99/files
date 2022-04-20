@@ -1,13 +1,13 @@
 [ {
-  "channelLink" : "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+  "channelLink" : "#",
   "channelName" : "PTV Sports 1"
 }, {
-  "channelLink" : "http://live.flixhub.net/hls/stersports1hd.m3u8",
+  "channelLink" : "#",
   "channelName" : "Star Sports HD 1"
 }, {
-  "channelLink" : "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
+  "channelLink" : "#",
   "channelName" : "PTV Sports 3"
 }, {
-  "channelLink" : "https://ranapk.ml/T-sports.m3u8",
+  "channelLink" : "#,
   "channelName" : "IPL Live"
 } ]
