@@ -1,13 +1,7 @@
 [ {
-  "channelLink" : "#",
-  "channelName" : "PTV Sports 1"
+  "channelLink" : "http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+  "channelName" : "Channel 1"
 }, {
-  "channelLink" : "#",
-  "channelName" : "Star Sports HD 1"
-}, {
-  "channelLink" : "#",
-  "channelName" : "PTV Sports 3"
-}, {
-  "channelLink" : "#,
-  "channelName" : "IPL Live"
+  "channelLink" : "http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+  "channelName" : "Channel 2"
 } ]
