@@ -1,6 +1,10 @@
 [{
   "channelLink" : "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651742867/ei/M0RzYrekI5qT1waM2pjACw/ip/39.60.123.157/id/WLBjXf8oly0.1/source/yt_live_broadcast/requiressl/yes/tx/24129500/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC7wikE_aiQ1gYqH-28IPRe996Ts4yfs7cApFkA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMj1H3w4knwjdxqa30W8PvF31KIqcDcShUoHxPzLKVWBAiAn30t7M2XzpyjMvzGyNugigsQUAFirMtUYj2F5FwfUBg%3D%3D/file/index.m3u8",
   "channelName" : "Cricket Sports"
+},
+ {
+  "channelLink" : "http://103.167.190.250/hls/ten.m3u8",
+  "channelName" : "Cricket One"
 }, 
  {
   "channelLink" : "https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8",
