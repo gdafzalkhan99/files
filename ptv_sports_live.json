@@ -1,12 +1,13 @@
 [ 
   
   {
-  "channelLink" : "http://103.55.144.46/hls/ten.m3u8",
+  "channelLink" : "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8
+",
   "channelName" : "Channel 1"
 }, 
  
  {
-  "channelLink" : "http://103.24.96.74/stream/ptvsports/playlist.m3u8",
+  "channelLink" : "http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8",
   "channelName" : "Channel 2"
 }, 
 
